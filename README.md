@@ -53,7 +53,7 @@ The analysis includes:
 - Customer behavior distribution  
 - Time-based sales patterns  
 
-(Add charts or dashboard screenshots here)
+Supermarket Sales Analysis on Power BI.pbix
 
 
 
